@@ -1,0 +1,12 @@
+.form{
+
+display: flex;
+flex-direction: column;
+justify-content: center;
+align-items: center;
+padding-top: 50px;
+};
+
+ul{
+    border: 2px solid red;
+}
